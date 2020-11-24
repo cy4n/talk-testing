@@ -1,0 +1,8 @@
+<testsuite name="authservice.AuthServicePerfSimulation" tests="2" errors="0" failures="1" time="0">
+<testcase name="Global: percentage of failed events is less than or equal to 0.05" status="true" time="0">
+  <system-out>Global: percentage of failed events is less than or equal to 0.05</system-out>
+</testcase>
+<testcase name="Global: 99th percentile of response time is less than or equal to 1000.0" status="false" time="0">
+  <failure type="Global">Actual value: 4580.0</failure>
+</testcase>
+</testsuite>

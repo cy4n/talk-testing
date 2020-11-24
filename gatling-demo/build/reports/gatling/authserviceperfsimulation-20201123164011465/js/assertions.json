@@ -1,0 +1,27 @@
+{
+  "simulation": "authservice.AuthServicePerfSimulation",
+  "simulationId": "authserviceperfsimulation",
+  "start": 1606149611465,
+  "description": "",
+  "scenarios": ["Authenticate combo"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "percentage of failed events",
+  "condition": "is less than or equal to",
+  "expectedValues": [0.05],
+  "result": true,
+  "message": "Global: percentage of failed events is less than or equal to 0.05",
+  "actualValue": [0.0]
+},
+{
+  "path": "Global",
+  "target": "99th percentile of response time",
+  "condition": "is less than or equal to",
+  "expectedValues": [1000.0],
+  "result": true,
+  "message": "Global: 99th percentile of response time is less than or equal to 1000.0",
+  "actualValue": [610.0]
+}
+  ]
+}

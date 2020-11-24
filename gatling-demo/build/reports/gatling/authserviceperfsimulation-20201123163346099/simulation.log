@@ -1,0 +1,724 @@
+ASSERTION	AAECAAMBAJqZmZmZmak/
+ASSERTION	AAEDAAEFAAAAAAAAwFhAAQAAAAAAAECPQA==
+RUN	authservice.AuthServicePerfSimulation	authserviceperfsimulation	1606149226099	 	3.4.1
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149226999
+USER	Authenticate combo	START	1606149226995
+USER	Authenticate combo	END	1606149227007
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149227488
+USER	Authenticate combo	START	1606149227488
+USER	Authenticate combo	END	1606149227489
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149227988
+USER	Authenticate combo	START	1606149227988
+USER	Authenticate combo	END	1606149227989
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149228114
+USER	Authenticate combo	START	1606149228114
+USER	Authenticate combo	END	1606149228115
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149228239
+USER	Authenticate combo	START	1606149228239
+USER	Authenticate combo	END	1606149228240
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149228364
+USER	Authenticate combo	START	1606149228364
+USER	Authenticate combo	END	1606149228364
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149228492
+USER	Authenticate combo	START	1606149228492
+USER	Authenticate combo	END	1606149228492
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149228614
+USER	Authenticate combo	START	1606149228614
+USER	Authenticate combo	END	1606149228615
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149228742
+USER	Authenticate combo	START	1606149228742
+USER	Authenticate combo	END	1606149228742
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149228867
+USER	Authenticate combo	START	1606149228867
+USER	Authenticate combo	END	1606149228868
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149228991
+USER	Authenticate combo	START	1606149228991
+USER	Authenticate combo	END	1606149228992
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149229065
+USER	Authenticate combo	START	1606149229065
+USER	Authenticate combo	END	1606149229066
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149229150
+USER	Authenticate combo	START	1606149229150
+USER	Authenticate combo	END	1606149229151
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149229234
+USER	Authenticate combo	START	1606149229234
+USER	Authenticate combo	END	1606149229234
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149229317
+USER	Authenticate combo	START	1606149229316
+USER	Authenticate combo	END	1606149229317
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149229401
+USER	Authenticate combo	START	1606149229401
+USER	Authenticate combo	END	1606149229402
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149229484
+USER	Authenticate combo	START	1606149229484
+USER	Authenticate combo	END	1606149229485
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149229566
+USER	Authenticate combo	START	1606149229566
+USER	Authenticate combo	END	1606149229567
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149229649
+USER	Authenticate combo	START	1606149229649
+USER	Authenticate combo	END	1606149229649
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149229738
+USER	Authenticate combo	END	1606149229738
+USER	Authenticate combo	START	1606149229738
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149229817
+USER	Authenticate combo	START	1606149229817
+USER	Authenticate combo	END	1606149229817
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149229903
+USER	Authenticate combo	START	1606149229903
+USER	Authenticate combo	END	1606149229903
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149229987
+USER	Authenticate combo	START	1606149229986
+USER	Authenticate combo	END	1606149229987
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230043
+USER	Authenticate combo	START	1606149230043
+USER	Authenticate combo	END	1606149230044
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230095
+USER	Authenticate combo	START	1606149230095
+USER	Authenticate combo	END	1606149230095
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230153
+USER	Authenticate combo	START	1606149230153
+USER	Authenticate combo	END	1606149230153
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230208
+USER	Authenticate combo	START	1606149230208
+USER	Authenticate combo	END	1606149230209
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230264
+USER	Authenticate combo	START	1606149230264
+USER	Authenticate combo	END	1606149230264
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230319
+USER	Authenticate combo	START	1606149230319
+USER	Authenticate combo	END	1606149230319
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230375
+USER	Authenticate combo	START	1606149230375
+USER	Authenticate combo	END	1606149230376
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230430
+USER	Authenticate combo	START	1606149230430
+USER	Authenticate combo	END	1606149230432
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230487
+USER	Authenticate combo	START	1606149230487
+USER	Authenticate combo	END	1606149230487
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230542
+USER	Authenticate combo	START	1606149230541
+USER	Authenticate combo	END	1606149230542
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230596
+USER	Authenticate combo	END	1606149230596
+USER	Authenticate combo	START	1606149230596
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230653
+USER	Authenticate combo	START	1606149230653
+USER	Authenticate combo	END	1606149230654
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230706
+USER	Authenticate combo	START	1606149230706
+USER	Authenticate combo	END	1606149230707
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230764
+USER	Authenticate combo	START	1606149230764
+USER	Authenticate combo	END	1606149230764
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230816
+USER	Authenticate combo	START	1606149230816
+USER	Authenticate combo	END	1606149230817
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230875
+USER	Authenticate combo	START	1606149230875
+USER	Authenticate combo	END	1606149230876
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230931
+USER	Authenticate combo	START	1606149230931
+USER	Authenticate combo	END	1606149230931
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149230987
+USER	Authenticate combo	START	1606149230987
+USER	Authenticate combo	END	1606149230987
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231031
+USER	Authenticate combo	END	1606149231031
+USER	Authenticate combo	START	1606149231031
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231073
+USER	Authenticate combo	START	1606149231073
+USER	Authenticate combo	END	1606149231074
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231123
+USER	Authenticate combo	START	1606149231122
+USER	Authenticate combo	END	1606149231123
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231164
+USER	Authenticate combo	START	1606149231164
+USER	Authenticate combo	END	1606149231165
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231210
+USER	Authenticate combo	START	1606149231210
+USER	Authenticate combo	END	1606149231210
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231255
+USER	Authenticate combo	START	1606149231255
+USER	Authenticate combo	END	1606149231255
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231305
+USER	Authenticate combo	START	1606149231305
+USER	Authenticate combo	END	1606149231306
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231348
+USER	Authenticate combo	START	1606149231347
+USER	Authenticate combo	END	1606149231348
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231394
+USER	Authenticate combo	START	1606149231393
+USER	Authenticate combo	END	1606149231394
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231438
+USER	Authenticate combo	START	1606149231438
+USER	Authenticate combo	END	1606149231439
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231484
+USER	Authenticate combo	START	1606149231484
+USER	Authenticate combo	END	1606149231484
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231530
+USER	Authenticate combo	START	1606149231530
+USER	Authenticate combo	END	1606149231531
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231576
+USER	Authenticate combo	START	1606149231576
+USER	Authenticate combo	END	1606149231576
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231623
+USER	Authenticate combo	START	1606149231623
+USER	Authenticate combo	END	1606149231623
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231665
+USER	Authenticate combo	START	1606149231665
+USER	Authenticate combo	END	1606149231666
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231713
+USER	Authenticate combo	START	1606149231713
+USER	Authenticate combo	END	1606149231714
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231759
+USER	Authenticate combo	START	1606149231759
+USER	Authenticate combo	END	1606149231759
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231805
+USER	Authenticate combo	START	1606149231805
+USER	Authenticate combo	END	1606149231805
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231851
+USER	Authenticate combo	START	1606149231851
+USER	Authenticate combo	END	1606149231851
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231893
+USER	Authenticate combo	START	1606149231893
+USER	Authenticate combo	END	1606149231894
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231942
+USER	Authenticate combo	START	1606149231942
+USER	Authenticate combo	END	1606149231942
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149231987
+USER	Authenticate combo	START	1606149231987
+USER	Authenticate combo	END	1606149231988
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232022
+USER	Authenticate combo	START	1606149232022
+USER	Authenticate combo	END	1606149232022
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232060
+USER	Authenticate combo	START	1606149232060
+USER	Authenticate combo	END	1606149232060
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232090
+USER	Authenticate combo	START	1606149232089
+USER	Authenticate combo	END	1606149232090
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232128
+USER	Authenticate combo	START	1606149232128
+USER	Authenticate combo	END	1606149232128
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232164
+USER	Authenticate combo	START	1606149232164
+USER	Authenticate combo	END	1606149232164
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232200
+USER	Authenticate combo	START	1606149232200
+USER	Authenticate combo	END	1606149232200
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232233
+USER	Authenticate combo	START	1606149232233
+USER	Authenticate combo	END	1606149232234
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232272
+USER	Authenticate combo	START	1606149232272
+USER	Authenticate combo	END	1606149232272
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232305
+USER	Authenticate combo	START	1606149232305
+USER	Authenticate combo	END	1606149232305
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232341
+USER	Authenticate combo	START	1606149232341
+USER	Authenticate combo	END	1606149232342
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232375
+USER	Authenticate combo	START	1606149232375
+USER	Authenticate combo	END	1606149232376
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232415
+USER	Authenticate combo	START	1606149232415
+USER	Authenticate combo	END	1606149232415
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232451
+USER	Authenticate combo	START	1606149232450
+USER	Authenticate combo	END	1606149232451
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232484
+USER	Authenticate combo	START	1606149232484
+USER	Authenticate combo	END	1606149232485
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232522
+USER	Authenticate combo	START	1606149232521
+USER	Authenticate combo	END	1606149232522
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232559
+USER	Authenticate combo	START	1606149232559
+USER	Authenticate combo	END	1606149232559
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232594
+USER	Authenticate combo	START	1606149232594
+USER	Authenticate combo	END	1606149232594
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232629
+USER	Authenticate combo	START	1606149232629
+USER	Authenticate combo	END	1606149232629
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232665
+USER	Authenticate combo	END	1606149232665
+USER	Authenticate combo	START	1606149232665
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232697
+USER	Authenticate combo	END	1606149232698
+USER	Authenticate combo	START	1606149232697
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232733
+USER	Authenticate combo	START	1606149232733
+USER	Authenticate combo	END	1606149232733
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232771
+USER	Authenticate combo	START	1606149232770
+USER	Authenticate combo	END	1606149232771
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232807
+USER	Authenticate combo	START	1606149232807
+USER	Authenticate combo	END	1606149232808
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232843
+USER	Authenticate combo	START	1606149232842
+USER	Authenticate combo	END	1606149232843
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232881
+USER	Authenticate combo	START	1606149232880
+USER	Authenticate combo	END	1606149232881
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232913
+USER	Authenticate combo	START	1606149232913
+USER	Authenticate combo	END	1606149232913
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232950
+USER	Authenticate combo	START	1606149232950
+USER	Authenticate combo	END	1606149232951
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149232989
+USER	Authenticate combo	START	1606149232988
+USER	Authenticate combo	END	1606149232989
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233019
+USER	Authenticate combo	START	1606149233019
+USER	Authenticate combo	END	1606149233020
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233047
+USER	Authenticate combo	START	1606149233047
+USER	Authenticate combo	END	1606149233048
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233081
+USER	Authenticate combo	START	1606149233081
+USER	Authenticate combo	END	1606149233082
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233106
+USER	Authenticate combo	START	1606149233106
+USER	Authenticate combo	END	1606149233107
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233141
+USER	Authenticate combo	START	1606149233141
+USER	Authenticate combo	END	1606149233142
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233169
+USER	Authenticate combo	START	1606149233169
+USER	Authenticate combo	END	1606149233169
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233201
+USER	Authenticate combo	START	1606149233201
+USER	Authenticate combo	END	1606149233201
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233237
+USER	Authenticate combo	START	1606149233237
+USER	Authenticate combo	END	1606149233237
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233266
+USER	Authenticate combo	START	1606149233266
+USER	Authenticate combo	END	1606149233267
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233297
+USER	Authenticate combo	START	1606149233297
+USER	Authenticate combo	END	1606149233298
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233329
+USER	Authenticate combo	START	1606149233329
+USER	Authenticate combo	END	1606149233330
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233360
+USER	Authenticate combo	START	1606149233360
+USER	Authenticate combo	END	1606149233361
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233391
+USER	Authenticate combo	START	1606149233391
+USER	Authenticate combo	END	1606149233392
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233419
+USER	Authenticate combo	START	1606149233419
+USER	Authenticate combo	END	1606149233419
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233453
+USER	Authenticate combo	START	1606149233453
+USER	Authenticate combo	END	1606149233453
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233483
+USER	Authenticate combo	START	1606149233483
+USER	Authenticate combo	END	1606149233484
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233517
+USER	Authenticate combo	START	1606149233517
+USER	Authenticate combo	END	1606149233518
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233549
+USER	Authenticate combo	START	1606149233549
+USER	Authenticate combo	END	1606149233549
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233575
+USER	Authenticate combo	START	1606149233575
+USER	Authenticate combo	END	1606149233575
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233610
+USER	Authenticate combo	START	1606149233610
+USER	Authenticate combo	END	1606149233610
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233642
+USER	Authenticate combo	START	1606149233642
+USER	Authenticate combo	END	1606149233642
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233674
+USER	Authenticate combo	START	1606149233673
+USER	Authenticate combo	END	1606149233674
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233705
+USER	Authenticate combo	START	1606149233705
+USER	Authenticate combo	END	1606149233705
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233736
+USER	Authenticate combo	START	1606149233736
+USER	Authenticate combo	END	1606149233736
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233764
+USER	Authenticate combo	START	1606149233764
+USER	Authenticate combo	END	1606149233764
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233797
+USER	Authenticate combo	START	1606149233797
+USER	Authenticate combo	END	1606149233798
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233831
+USER	Authenticate combo	START	1606149233830
+USER	Authenticate combo	END	1606149233831
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233859
+USER	Authenticate combo	START	1606149233859
+USER	Authenticate combo	END	1606149233860
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233891
+USER	Authenticate combo	START	1606149233891
+USER	Authenticate combo	END	1606149233892
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233924
+USER	Authenticate combo	START	1606149233924
+USER	Authenticate combo	END	1606149233924
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233951
+USER	Authenticate combo	START	1606149233951
+USER	Authenticate combo	END	1606149233951
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149233983
+USER	Authenticate combo	START	1606149233983
+USER	Authenticate combo	END	1606149233984
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234011
+USER	Authenticate combo	START	1606149234011
+USER	Authenticate combo	END	1606149234012
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234035
+USER	Authenticate combo	START	1606149234035
+USER	Authenticate combo	END	1606149234035
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234062
+USER	Authenticate combo	END	1606149234063
+USER	Authenticate combo	START	1606149234062
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234093
+USER	Authenticate combo	START	1606149234093
+USER	Authenticate combo	END	1606149234093
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234124
+USER	Authenticate combo	START	1606149234124
+USER	Authenticate combo	END	1606149234124
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234141
+USER	Authenticate combo	START	1606149234141
+USER	Authenticate combo	END	1606149234142
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234169
+USER	Authenticate combo	START	1606149234169
+USER	Authenticate combo	END	1606149234169
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234196
+USER	Authenticate combo	START	1606149234196
+USER	Authenticate combo	END	1606149234197
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234219
+USER	Authenticate combo	START	1606149234219
+USER	Authenticate combo	END	1606149234219
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234248
+USER	Authenticate combo	START	1606149234248
+USER	Authenticate combo	END	1606149234248
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234275
+USER	Authenticate combo	START	1606149234275
+USER	Authenticate combo	END	1606149234276
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234302
+USER	Authenticate combo	START	1606149234302
+USER	Authenticate combo	END	1606149234302
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234326
+USER	Authenticate combo	START	1606149234326
+USER	Authenticate combo	END	1606149234327
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234355
+USER	Authenticate combo	START	1606149234355
+USER	Authenticate combo	END	1606149234355
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234380
+USER	Authenticate combo	START	1606149234380
+USER	Authenticate combo	END	1606149234381
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234408
+USER	Authenticate combo	START	1606149234408
+USER	Authenticate combo	END	1606149234408
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234433
+USER	Authenticate combo	START	1606149234433
+USER	Authenticate combo	END	1606149234434
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234456
+USER	Authenticate combo	START	1606149234455
+USER	Authenticate combo	END	1606149234456
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234486
+USER	Authenticate combo	START	1606149234486
+USER	Authenticate combo	END	1606149234486
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234510
+USER	Authenticate combo	START	1606149234510
+USER	Authenticate combo	END	1606149234510
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234537
+USER	Authenticate combo	START	1606149234537
+USER	Authenticate combo	END	1606149234538
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234564
+USER	Authenticate combo	START	1606149234564
+USER	Authenticate combo	END	1606149234565
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234593
+USER	Authenticate combo	START	1606149234593
+USER	Authenticate combo	END	1606149234593
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234615
+USER	Authenticate combo	START	1606149234615
+USER	Authenticate combo	END	1606149234616
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234641
+USER	Authenticate combo	START	1606149234641
+USER	Authenticate combo	END	1606149234642
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234672
+USER	Authenticate combo	START	1606149234671
+USER	Authenticate combo	END	1606149234672
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234697
+USER	Authenticate combo	START	1606149234697
+USER	Authenticate combo	END	1606149234698
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234723
+USER	Authenticate combo	START	1606149234723
+USER	Authenticate combo	END	1606149234723
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234750
+USER	Authenticate combo	START	1606149234750
+USER	Authenticate combo	END	1606149234750
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234774
+USER	Authenticate combo	START	1606149234774
+USER	Authenticate combo	END	1606149234775
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234800
+USER	Authenticate combo	START	1606149234800
+USER	Authenticate combo	END	1606149234801
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234829
+USER	Authenticate combo	START	1606149234829
+USER	Authenticate combo	END	1606149234830
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234855
+USER	Authenticate combo	START	1606149234855
+USER	Authenticate combo	END	1606149234855
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234881
+USER	Authenticate combo	START	1606149234881
+USER	Authenticate combo	END	1606149234881
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234905
+USER	Authenticate combo	START	1606149234905
+USER	Authenticate combo	END	1606149234905
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234934
+USER	Authenticate combo	START	1606149234934
+USER	Authenticate combo	END	1606149234934
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234960
+USER	Authenticate combo	START	1606149234960
+USER	Authenticate combo	END	1606149234961
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149234986
+USER	Authenticate combo	START	1606149234986
+USER	Authenticate combo	END	1606149234987
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235009
+USER	Authenticate combo	START	1606149235008
+USER	Authenticate combo	END	1606149235009
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235032
+USER	Authenticate combo	START	1606149235032
+USER	Authenticate combo	END	1606149235032
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235059
+USER	Authenticate combo	START	1606149235059
+USER	Authenticate combo	END	1606149235059
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235080
+USER	Authenticate combo	START	1606149235080
+USER	Authenticate combo	END	1606149235081
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235105
+USER	Authenticate combo	START	1606149235105
+USER	Authenticate combo	END	1606149235105
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235145
+USER	Authenticate combo	START	1606149235145
+USER	Authenticate combo	END	1606149235145
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235148
+USER	Authenticate combo	START	1606149235148
+USER	Authenticate combo	END	1606149235148
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235175
+USER	Authenticate combo	START	1606149235175
+USER	Authenticate combo	END	1606149235175
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235198
+USER	Authenticate combo	START	1606149235198
+USER	Authenticate combo	END	1606149235198
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235225
+USER	Authenticate combo	START	1606149235225
+USER	Authenticate combo	END	1606149235226
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235246
+USER	Authenticate combo	START	1606149235246
+USER	Authenticate combo	END	1606149235247
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235272
+USER	Authenticate combo	START	1606149235272
+USER	Authenticate combo	END	1606149235272
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235294
+USER	Authenticate combo	START	1606149235294
+USER	Authenticate combo	END	1606149235295
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235317
+USER	Authenticate combo	START	1606149235317
+USER	Authenticate combo	END	1606149235317
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235341
+USER	Authenticate combo	START	1606149235341
+USER	Authenticate combo	END	1606149235342
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235367
+USER	Authenticate combo	START	1606149235367
+USER	Authenticate combo	END	1606149235367
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235390
+USER	Authenticate combo	START	1606149235390
+USER	Authenticate combo	END	1606149235390
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235415
+USER	Authenticate combo	START	1606149235415
+USER	Authenticate combo	END	1606149235415
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235438
+USER	Authenticate combo	START	1606149235438
+USER	Authenticate combo	END	1606149235438
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235464
+USER	Authenticate combo	START	1606149235464
+USER	Authenticate combo	END	1606149235464
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235484
+USER	Authenticate combo	START	1606149235484
+USER	Authenticate combo	END	1606149235485
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235508
+USER	Authenticate combo	START	1606149235508
+USER	Authenticate combo	END	1606149235509
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235531
+USER	Authenticate combo	START	1606149235531
+USER	Authenticate combo	END	1606149235531
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235556
+USER	Authenticate combo	START	1606149235556
+USER	Authenticate combo	END	1606149235556
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235582
+USER	Authenticate combo	END	1606149235582
+USER	Authenticate combo	START	1606149235582
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235605
+USER	Authenticate combo	START	1606149235605
+USER	Authenticate combo	END	1606149235605
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235628
+USER	Authenticate combo	START	1606149235628
+USER	Authenticate combo	END	1606149235628
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235651
+USER	Authenticate combo	START	1606149235651
+USER	Authenticate combo	END	1606149235651
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235677
+USER	Authenticate combo	START	1606149235677
+USER	Authenticate combo	END	1606149235677
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235698
+USER	Authenticate combo	START	1606149235698
+USER	Authenticate combo	END	1606149235699
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235727
+USER	Authenticate combo	START	1606149235727
+USER	Authenticate combo	END	1606149235727
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235747
+USER	Authenticate combo	START	1606149235747
+USER	Authenticate combo	END	1606149235747
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235768
+USER	Authenticate combo	START	1606149235768
+USER	Authenticate combo	END	1606149235769
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235797
+USER	Authenticate combo	START	1606149235797
+USER	Authenticate combo	END	1606149235797
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235816
+USER	Authenticate combo	START	1606149235816
+USER	Authenticate combo	END	1606149235816
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235845
+USER	Authenticate combo	START	1606149235844
+USER	Authenticate combo	END	1606149235845
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235868
+USER	Authenticate combo	START	1606149235868
+USER	Authenticate combo	END	1606149235868
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235893
+USER	Authenticate combo	START	1606149235893
+USER	Authenticate combo	END	1606149235893
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235914
+USER	Authenticate combo	START	1606149235914
+USER	Authenticate combo	END	1606149235915
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235938
+USER	Authenticate combo	START	1606149235938
+USER	Authenticate combo	END	1606149235938
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235963
+USER	Authenticate combo	START	1606149235963
+USER	Authenticate combo	END	1606149235963
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149235988
+USER	Authenticate combo	START	1606149235988
+USER	Authenticate combo	END	1606149235988
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236008
+USER	Authenticate combo	START	1606149236008
+USER	Authenticate combo	END	1606149236009
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236029
+USER	Authenticate combo	START	1606149236029
+USER	Authenticate combo	END	1606149236029
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236048
+USER	Authenticate combo	START	1606149236048
+USER	Authenticate combo	END	1606149236049
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236072
+USER	Authenticate combo	START	1606149236072
+USER	Authenticate combo	END	1606149236072
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236092
+USER	Authenticate combo	START	1606149236091
+USER	Authenticate combo	END	1606149236092
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236112
+USER	Authenticate combo	START	1606149236112
+USER	Authenticate combo	END	1606149236112
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236132
+USER	Authenticate combo	START	1606149236132
+USER	Authenticate combo	END	1606149236133
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236165
+USER	Authenticate combo	START	1606149236165
+USER	Authenticate combo	END	1606149236165
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236169
+USER	Authenticate combo	START	1606149236169
+USER	Authenticate combo	END	1606149236169
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236193
+USER	Authenticate combo	START	1606149236193
+USER	Authenticate combo	END	1606149236193
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236214
+USER	Authenticate combo	START	1606149236214
+USER	Authenticate combo	END	1606149236214
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236234
+USER	Authenticate combo	START	1606149236234
+USER	Authenticate combo	END	1606149236234
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236254
+USER	Authenticate combo	START	1606149236254
+USER	Authenticate combo	END	1606149236254
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236275
+USER	Authenticate combo	START	1606149236275
+USER	Authenticate combo	END	1606149236276
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236297
+USER	Authenticate combo	START	1606149236297
+USER	Authenticate combo	END	1606149236297
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236317
+USER	Authenticate combo	START	1606149236317
+USER	Authenticate combo	END	1606149236317
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236337
+USER	Authenticate combo	START	1606149236337
+USER	Authenticate combo	END	1606149236337
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236360
+USER	Authenticate combo	START	1606149236360
+USER	Authenticate combo	END	1606149236360
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236381
+USER	Authenticate combo	START	1606149236381
+USER	Authenticate combo	END	1606149236382
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236402
+USER	Authenticate combo	START	1606149236402
+USER	Authenticate combo	END	1606149236402
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236422
+USER	Authenticate combo	START	1606149236421
+USER	Authenticate combo	END	1606149236422
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236441
+USER	Authenticate combo	START	1606149236441
+USER	Authenticate combo	END	1606149236442
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236464
+USER	Authenticate combo	START	1606149236464
+USER	Authenticate combo	END	1606149236464
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236486
+USER	Authenticate combo	START	1606149236486
+USER	Authenticate combo	END	1606149236487
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236506
+USER	Authenticate combo	START	1606149236506
+USER	Authenticate combo	END	1606149236506
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236527
+USER	Authenticate combo	START	1606149236527
+USER	Authenticate combo	END	1606149236527
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236547
+USER	Authenticate combo	START	1606149236547
+USER	Authenticate combo	END	1606149236547
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236568
+USER	Authenticate combo	START	1606149236568
+USER	Authenticate combo	END	1606149236568
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236591
+USER	Authenticate combo	START	1606149236591
+USER	Authenticate combo	END	1606149236592
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236608
+USER	Authenticate combo	START	1606149236608
+USER	Authenticate combo	END	1606149236609
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236629
+USER	Authenticate combo	START	1606149236629
+USER	Authenticate combo	END	1606149236630
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236649
+USER	Authenticate combo	START	1606149236649
+USER	Authenticate combo	END	1606149236650
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236672
+USER	Authenticate combo	START	1606149236672
+USER	Authenticate combo	END	1606149236672
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236694
+USER	Authenticate combo	START	1606149236693
+USER	Authenticate combo	END	1606149236694
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236715
+USER	Authenticate combo	START	1606149236715
+USER	Authenticate combo	END	1606149236716
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236736
+USER	Authenticate combo	START	1606149236736
+USER	Authenticate combo	END	1606149236736
+ERROR	auth: Failed to build request: url localhost/api/authenticate can't be parsed into an Uri: j.l.IllegalArgumentException: localhost/api/authenticate could not be parsed into a proper Uri, missing scheme 	1606149236756
+USER	Authenticate combo	START	1606149236756
+USER	Authenticate combo	END	1606149236757
+ERROR	
